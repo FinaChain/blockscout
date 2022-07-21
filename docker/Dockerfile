@@ -18,6 +18,8 @@ RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y
 
 ENV PATH="$HOME/.cargo/bin:${PATH}"
 ENV RUSTFLAGS="-C target-feature=-crt-static"
+ENV BROWSERSLIST_IGNORE_OLD_DATA=true
+ENV COIN="FNA"
 
 EXPOSE 4000
 
