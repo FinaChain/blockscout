@@ -60,8 +60,8 @@ export const initialState = {
   stakingErrorShown: false
 }
 
-// 100 - id of xDai network, 101 - id of xDai test network
-export const allowedNetworkIds = [100, 101]
+// 40101 - id of FinaChain network
+export const allowedNetworkIds = [40101]
 
 export function reducer (state = initialState, action) {
   switch (action.type) {
