@@ -2730,11 +2730,6 @@ msgid "Total transactions"
 msgstr ""
 
 #, elixir-format
-#: lib/block_scout_web/templates/stakes/_stakes_top.html.eex:52
-msgid "Trade STAKE on AscendEX"
-msgstr ""
-
-#, elixir-format
 #: lib/block_scout_web/templates/address_logs/_logs.html.eex:19
 #: lib/block_scout_web/views/transaction_view.ex:460
 msgid "Transaction"
