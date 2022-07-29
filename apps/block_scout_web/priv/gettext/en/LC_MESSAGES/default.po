@@ -441,7 +441,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/stakes/_stakes_top.html.eex:45
-msgid "Bridge STAKE to Ethereum"
+msgid "Trade XFNA on Txbit Exchange"
 msgstr ""
 
 #, elixir-format
@@ -2257,7 +2257,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/stakes/_stakes_top.html.eex:38
-msgid "Swap STAKE on Honeyswap"
+msgid "Trade XFNA on StakeCube"
 msgstr ""
 
 #, elixir-format
